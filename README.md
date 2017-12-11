@@ -1,4 +1,7 @@
 # gobem-proc-justjst
+**DON'T USE THE PACKAGE. IT'S DEPRECATED!!!
+USE [webpack](https://github.com/webpack) INSTEAD.**
+
 This processor for [gobem](https://github.com/Enet/gobem) makes javascript templates and passes them to callback function. Function is a required argument.
 
 ### Example for **build.js**
